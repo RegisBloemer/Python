@@ -1,0 +1,20 @@
+[
+  {
+    "name": "João",
+    "hight": 1.7,
+    "weight": "80",
+    "cpf": 38928989283
+  },
+  {
+    "name": "Régis",
+    "hight": 1.9,
+    "weight": "79",
+    "cpf": 45645645645
+  },
+  {
+    "name": "Luan",
+    "hight": 1.5,
+    "weight": "69",
+    "cpf": 34534534534
+  }
+]
